@@ -1,0 +1,7 @@
+{
+  "name": "MediScan Inventory",
+  "description": "A mobile-first healthcare inventory prototype for scanning UDI barcodes, tracking expirations, and managing hospital supplies locally.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
